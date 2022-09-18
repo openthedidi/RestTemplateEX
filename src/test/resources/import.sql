@@ -1,0 +1,1 @@
+INSERT INTO coin(code,symbol,rate,description,rate_float) VALUES('USD','&#36;','19,837.8710','United States Dollar',19837.871);
