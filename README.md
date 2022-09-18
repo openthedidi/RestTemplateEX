@@ -8,7 +8,7 @@ coindesk API:https://api.coindesk.com/v1/bpi/currentprice.json
 
 
 
-2. 建立一張幣別與其對應中文名稱的資料表(需附建立 SQL 語法),並提
+2. 建立一張幣別與其對應中文名稱的資料表(請參考schema.sql),並提
 供 查詢 / 新增 / 修改 / 刪除 功能 API；使用Spring MVC架構實作。
 
 
